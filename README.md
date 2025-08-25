@@ -53,3 +53,9 @@ The assistant:
 
 ---
 
+## 🧩 Core Implementations
+
+### Function Calling
+```ts
+get_local_weather(location: string) → weather_json
+get_calendar_events(date: string, user_id: string) → calendar_json
