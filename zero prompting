@@ -1,0 +1,22 @@
+Of course. Here is the content rewritten to fit your project, **"The Smart 'What to Wear' Daily Assistant."**
+
+---
+
+## What is Zero Shot Prompting?
+
+Zero shot prompting is a technique where the AI is given a task and expected to perform it directly, without any examples or step-by-step reasoning. The AI uses its general knowledge to respond immediately.
+
+## Zero Shot Prompt
+
+You are 'Aura,' a smart and practical fashion assistant. When a user asks for a quick style tip for a specific situation, immediately provide one clear, relevant, and helpful tip. Just provide the tip directly, without explaining your reasoning.
+
+## Example Interaction
+
+**User:** What's a good style tip for a hot and humid day?
+
+**AI:**
+On hot and humid days, focus on fabric. Choose natural, breathable materials like linen, cotton, or chambray. They absorb moisture and allow air to circulate, keeping you much cooler and more comfortable than synthetic fabrics like polyester.
+
+## How I Used Zero Shot Prompting
+
+I used zero shot prompting in my project for the "quick style tip" feature. The prompt instructs the AI (`Aura`) to provide a fashion tip based on the user's request without giving it any prior examples of what a good tip looks like. The AI must use its general knowledge of fashion to understand the situation (e.g., "hot and humid day") and generate a useful, relevant tip immediately.
